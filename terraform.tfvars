@@ -1,0 +1,6 @@
+user_ocid        = "your user id"
+fingerprint      = "your fingerprint"
+tenancy_ocid     = "your tenancy id"
+region           = "your region"
+private_key_path = "your private key path"
+compartment_ocid = "your compartment id"
